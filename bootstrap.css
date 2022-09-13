@@ -1,0 +1,40 @@
+
+
+body{
+	direction: rtl;
+	text-align: right !important;
+	font-family: "iranyekanwebregular" !important;
+}
+
+.icon{
+    color: #0d6efd;
+    display: inline-flex;
+    background-color: #ebeafb;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card-primary{
+	background-color: #03034d;
+	color: cornsilk !important;
+}
+
+.bg-main{
+	background-color: #03034d;
+}
+.footer-link{
+	text-decoration: none;
+	list-style: none;
+	color: #000000;
+}
+.footer-link:hover{
+	color: #03034d;
+}
+.footer-header{
+	border-bottom: 2px solid #03034d;
+	height: 35px;
+}
+.navbar-toggler {
+	border: none;
+	font-size: 1.5rem;
+  }
